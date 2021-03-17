@@ -4,6 +4,9 @@ public class Point {
 		this.x = x;
 		this.y = y;
 	}
+	public Point(){
+		
+	}
 	
 	public void changeCoords(float x, float y) {
 		this.x =x;
